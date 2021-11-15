@@ -3,4 +3,6 @@ Farbpalette
 Rot
 Grün
 Blau
-GelbSind alles ntolle Farben
+Gelb
+Magenta
+Sind alles tolle Farben
